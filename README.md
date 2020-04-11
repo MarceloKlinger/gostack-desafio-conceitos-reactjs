@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 1: Conceitos ReactJS
+  Desafio 2: Conceitos ReactJS
 </h3>
 
 ## :rocket: Sobre o desafio
